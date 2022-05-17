@@ -1,6 +1,6 @@
 # Fraudulent Credit Card Transaction Detection
 
-This work was done for the Machine Learning for TData Mining Course at DA-IICT.
+This work was done for the Machine Learning for Data Mining Course at DA-IICT.
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase
 
